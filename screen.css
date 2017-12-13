@@ -1,0 +1,41 @@
+#myWebGLCanvas {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 10;
+}
+
+#myImageCanvas {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 0;
+}
+
+#score {
+  position: absolute;
+  font-weight:bold;
+  top: 30px;
+  font-size: 30px;
+  color: white;
+  background-color: tranparent;
+}
+
+#level {
+  position: absolute;
+  font-weight:bold;
+  top: 70px;
+  font-size: 30px;
+  color: white;
+  background-color: tranparent;
+}
+
+#gameOver {
+  position: absolute;
+  font-weight:bold;
+  top: 220px;
+  left: 180px;
+  font-size: 30px;
+  color: white;
+  background-color: tranparent;
+}
