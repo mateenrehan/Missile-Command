@@ -39,3 +39,10 @@
   color: white;
   background-color: tranparent;
 }
+
+#title {
+  position: relative;
+  font-weight:bold;
+  left: 300px;
+  font-size: 30px;
+}
