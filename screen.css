@@ -15,7 +15,8 @@
 #score {
   position: absolute;
   font-weight:bold;
-  top: 30px;
+  top: 50px;
+  left: 20px;
   font-size: 30px;
   color: white;
   background-color: tranparent;
@@ -24,7 +25,8 @@
 #level {
   position: absolute;
   font-weight:bold;
-  top: 70px;
+  top: 90px;
+  left: 20px;
   font-size: 30px;
   color: white;
   background-color: tranparent;
